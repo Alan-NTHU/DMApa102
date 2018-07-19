@@ -15,8 +15,6 @@ the DMAPA102_microsearned example shows the time blocked in microseconds, you ca
 notice that with DMASPI you will still need to wait the SPI transfer to complete to show next frame, but you can do other different things while transfering.
 
   Credits.   
-  National Tsing Hua University_Glow Performance Club (NTHU_GPC)
-  https://www.facebook.com/nthugpc/
-  Panda'Spectrum
-  https://www.facebook.com/PandaSpectrum/
+  National Tsing Hua University_Glow Performance Club (NTHU_GPC): https://www.facebook.com/nthugpc/
+  Panda'Spectrum:   https://www.facebook.com/PandaSpectrum/
   2018/JUL/19
